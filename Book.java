@@ -1,7 +1,5 @@
 package OEL;
 
-import java.util.Scanner;
-
 class Book {
     String title;
     String author;
@@ -14,4 +12,5 @@ class Book {
         this.year = year;
         this.genre = genre;
     }
+    
 }
